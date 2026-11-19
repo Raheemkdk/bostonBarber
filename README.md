@@ -4,7 +4,7 @@ A modern, Boston-inspired barbershop landing page built using **HTML5 and CSS3**
 
 This project showcases frontend web development skills through a clean, business-focused website for **Warren Street Barbers**, a fictional neighborhood barbershop concept based in Roxbury, Massachusetts.
 
-Live Link: boston-barber-web.netlify.app
+Live Link: https://boston-barber-web.netlify.app/
 
 ## 🌟 Project Overview
 
